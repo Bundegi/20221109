@@ -4,7 +4,7 @@
 #include <cmath>
 #define fast ios::sync_with_stdio(0), cin.tie(nullptr), cout.tie(nullptr)
 #define endl "\n"
-
+//21314backjun 민겸 수 문자열 그리디 
 using namespace std;
 
 int main() {
